@@ -1,3 +1,10 @@
-*.pyc
-src/
+.project
+.pydevproject
 test/
+*.pyc
+*.orig
+MANIFEST
+doc/*.html
+
+dist
+build
