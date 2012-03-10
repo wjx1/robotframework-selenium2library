@@ -6,5 +6,7 @@ test/
 MANIFEST
 doc/*.html
 
+
 dist
 build
+src
